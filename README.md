@@ -14,12 +14,14 @@ In this project, I explored the Bikeshare Data for three major cities in US - Ch
 
 
 Files in this projects are include:
+
 washington.csv
 new_york_city.csv
 chicago.csv
 
 
 Require library:
+
 library(ggplot2)
 library(pastecs)
 library(tidyverse)
